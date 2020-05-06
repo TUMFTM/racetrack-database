@@ -18,7 +18,7 @@ our minimum curvature optimization algorithm, which is also available as open so
 every track.
 
 The quality of the source data varies greatly depending on the location. Accordingly, the quality of the results varies
-as well. Please bear this in mind and consider whether the quality is sufficient for the desired application.
+as well. Please bear this in mind and check whether the accuracy is sufficient for the desired application.
 
 # Acknowledgement
 The image processing algorithm to extract the track widths was developed by Andressa de Paula Suiti during her semester
