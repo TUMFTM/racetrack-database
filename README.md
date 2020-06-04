@@ -1,8 +1,35 @@
 # Introduction
-This repository contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks (F1
-and DTM) all over the world. We are open for comments, suggestions and extensions!
+This repository contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks
+(mainly F1 and DTM) all over the world. We are open for comments, suggestions and extensions!
 
 Contact person: [Alexander Heilmeier](mailto:alexander.heilmeier@tum.de).
+
+# Included race tracks
+* Austin, USA (F1)
+* Brands Hatch, UK (DTM)
+* Budapest, Hungary (F1)
+* Catalunya, Spain (F1)
+* Hockenheim, Germany (F1, DTM)
+* IMS Indianapolis Motor Speedway, USA (IndyCar)
+* Melbourne, Australia (F1)
+* Mexico City, Mexico (F1)
+* Montreal, Canada (F1)
+* Monza, Italy (F1)
+* Moscow Raceway, Russia (DTM)
+* Norisring, Germany (DTM)
+* Nuerburgring, Germany (DTM)
+* Oschersleben, Germany (DTM)
+* Sakhir, Bahrain (F1)
+* Sao Paulo, Brazil (F1)
+* Sepang, Malaysia (F1)
+* Shanghai, China (F1)
+* Silverstone, UK (F1)
+* Sochi, Russia (F1)
+* Spa, Belgium (F1)
+* Spielberg, Austria (F1)
+* Suzuka, Japan (F1)
+* Yas Marina, Abu Dhabi (F1)
+* Zandvoort, Netherlands (DTM)
 
 # Data Source and Processing
 The original center lines were fetched as GPS points from the OpenStreetMap project (https://www.openstreetmap.org).
@@ -30,3 +57,8 @@ and normal vectors such that the track data can be used in further algorithms or
 # Acknowledgement
 The image processing algorithm to extract the track widths was developed by Andressa de Paula Suiti during her semester
 thesis at the Chair of Automotive Technology of the Technical University of Munich.
+
+# Related open-source repositories
+* Lap time simulation: https://github.com/TUMFTM/laptime-simulation
+* Race simulation: https://github.com/TUMFTM/race-simulation
+* Formula 1 timing database: https://github.com/TUMFTM/f1-timing-database
