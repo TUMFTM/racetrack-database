@@ -60,5 +60,6 @@ thesis at the Chair of Automotive Technology of the Technical University of Muni
 
 # Related open-source repositories
 * Lap time simulation: https://github.com/TUMFTM/laptime-simulation
-* Race simulation: https://github.com/TUMFTM/race-simulation
+* Lap-discrete race simulation: https://github.com/TUMFTM/race-simulation
+* Time-discrete race simulator: https://github.com/heilmeiera/time-discrete-race-simulator
 * Formula 1 timing database: https://github.com/TUMFTM/f1-timing-database
